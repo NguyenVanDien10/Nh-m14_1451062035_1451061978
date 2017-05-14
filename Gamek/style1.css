@@ -1,0 +1,561 @@
+#cpm23400{
+	position: fixed;
+}
+
+#adnzone_23400 {
+    clear: both;
+    text-align: left;
+    margin: 0 auto;
+}
+
+#ads_zone360 {
+    min-height: 610px;
+}
+
+.contentright {
+    width: 300px;
+    float: right;
+}
+
+.newsupdate li .pb_top, .footer .right_info li a, .footer .bottom_menu ul li a, .newsupdate li .pb_top, .hosogamek .sublabel a, .hosogamek ul li h3 a, .sukiengame .viewall, .tagnew a, .timeupdate, .box_nhung1 .g_topinfo .g_nameinfo, .box_nhung1 .g_number {
+    white-space: nowrap;
+}
+
+.sukiengame .viewall {
+    background: #d21a32;
+    font-size: 13px;
+    font-weight: normal;
+    padding: 3px 5px;
+    color: #fff;
+    float: right;
+    margin: 15px 5px 0;
+}
+
+.sukiengame p a {
+    color: #c71b28;
+}
+
+.sukiengame p {
+    font-size: 17px;
+    color: #363636;
+    line-height: 50px;
+    margin-left: 15px;
+    float: left;
+}
+
+.sukiengame .left span {
+    color: #ff8301;
+    margin-left: 5px;
+}
+
+.sukiengame .left h2 {
+    font-size: 14px;
+    color: #fff;
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+.sukiengame .left {
+    background-position: -76px -143px;
+    width: 120px;
+    height: 50px;
+    float: left;
+    line-height: 50px;
+}
+
+.sukiengame {
+    width: 100%;
+    float: left;
+    margin-top: 10px;
+    background: #efefef;
+    border: 1px solid #e5e4e4;
+}
+
+.mgt0 {
+    margin-top: 0!important;
+}
+
+.trainghiemnews ul li h3 a {
+    color: #636463;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+h3 {
+    display: block;
+    font-size: 1.17em;
+  	//-webkit-margin-before: 1em;
+  	//-webkit-margin-after: 1em;
+ 	//-webkit-margin-start: 0px;
+    //-webkit-margin-end: 0px;
+    font-weight: bold;
+}
+
+.trainghiemnews ul li .ion {
+    background-position: -295px -85px;
+    width: 27px;
+    height: 26px;
+    float: left;
+    position: absolute;
+    top: 22px;
+    left: 25px;
+}
+
+.trainghiemnews ul li img {
+    float: left;
+    width: 74px;
+    height: 46px;
+    border: 1px solid #d3d1d1;
+    padding: 2px;
+    margin-right: 10px;
+}
+
+.trainghiemnews ul li.end {
+    border-bottom: none;
+}
+
+.trainghiemnews ul li:last-child {
+    border-bottom: none!important;
+}
+
+.trainghiemnews ul li.top {
+    border-top: none;
+}
+
+.trainghiemnews ul li {
+    overflow: hidden;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+    margin: 0 10px;
+    position: relative;
+}
+
+.trainghiemnews ul {
+    background: #efefef;
+    float: left;
+    width: 276px;
+    padding-bottom: 5px;
+    border: 1px solid #e4e3e3;
+}
+
+.trainghiemnews .labeltop h2 span {
+    background-position: -154px 0;
+    width: 14px;
+    height: 10px;
+    float: left;
+    position: absolute;
+    top: 12px;
+    right: 10px;
+}
+
+.trainghiemnews .labeltop a {
+    font-size: 13px;
+    color: #8c8d8c;
+}
+
+.mgl10 {
+    margin-left: 10px;
+}
+
+.trainghiemnews .labeltop h2 {
+    float: left;
+    position: relative;
+    width: 100%;
+}
+
+.trainghiemnews .labeltop {
+    color: #8c8d8c;
+}
+
+.trainghiemnews .labeltop {
+    background: #dedede;
+    height: 33px;
+    width: 100%;
+    float: left;
+    line-height: 33px;
+}
+
+.wptopright .trainghiemnews {
+    float: left;
+    width: 100%;
+    margin-top: 15px;
+}
+
+.topright h2 a, .topright2 h2 a {
+    color: #fff;
+    font: 700 17px/24px Tahoma;
+    text-shadow: 1px 1px #000;
+    padding: 0 15px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.topright2 h2 {
+    width: 100%;
+    float: left;
+    background: url(/) repeat-x;
+    height: 80px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    display: table;
+    background-position: 0 -100px;
+}
+
+.topright2 img {
+    width: 278px;
+    height: 163px;
+    float: left;
+}
+
+.topright, .topright2 {
+    width: 100%;
+    float: left;
+    position: relative;
+}
+
+.mgt15 {
+    margin-top: 15px;
+}
+
+.topright h2 a {
+    font-size: 18px;
+}
+
+.topright h2 a, .topright2 h2 a {
+    color: #fff;
+    font: 700 17px/24px Tahoma;
+    text-shadow: 1px 1px #000;
+    padding: 0 15px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.topright h2 {
+    width: 100%;
+    float: left;
+    background: url(/) repeat-x;
+    height: 78px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    display: table;
+    background-position: 0 -200px;
+}
+
+.topright img {
+    width: 278px;
+    height: 262px;
+    float: left;
+}
+
+.topright, .topright2 {
+    width: 100%;
+    float: left;
+    position: relative;
+}
+
+.wptopright {
+    width: 278px;
+    float: right;
+}
+
+.topleft3 ul li.clear {
+    float: left;
+    width: 100%;
+    margin: 0;
+}
+
+.topleft3 ul li {
+    width: 192px;
+    float: left;
+    margin: 15px 0 0 15px;
+    position: relative;
+}
+
+.clear {
+    clear: both;
+}
+
+.topleft3 ul li h2 a {
+    color: #242424;
+}
+.topleft3 ul li h2 {
+    font-size: 13px;
+    font-weight: bold;
+    font-family: Tahoma;
+    float: left;
+    padding: 5px 0 3px;
+}
+
+.topleft3 ul li a img {
+    width: 192px;
+    height: 129px;
+    float: left;
+}
+
+.topleft3 ul li {
+    width: 192px;
+    float: left;
+    margin: 15px 0 0 15px;
+    position: relative;
+}
+
+.topleft3 ul li.left {
+    margin-left: 0;
+}
+
+.topleft3 {
+    width: 100%;
+    float: left;
+}
+
+.topleft2 h2 a {
+    color: #fff;
+    font: 700 17px/24px Tahoma;
+    text-shadow: 1px 1px #000;
+    padding: 0 15px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.topleft2 h2 {
+    width: 100%;
+    float: left;
+    background: url(/) repeat-x;
+    height: 80px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    display: table;
+    background-position: 0 -100px;
+}
+
+.topleft2 img {
+    width: 399px;
+    height: 163px;
+    float: left;
+}
+
+.topleft2 {
+    width: 100%;
+    float: left;
+    position: relative;
+    margin-top: 15px;
+}
+
+.topleft h2 a {
+    color: #fff;
+    font: 700 21px/30px Tahoma;
+    padding: 0 15px;
+    text-shadow: 1px 1px 0 #000;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.topleft h2 {
+    width: 100%;
+    float: left;
+    //background-image: url("images/icon.png")
+    height: 90px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    display: table;
+    background-position-x: 0px;
+    background-position-y: 0px;
+}
+
+.topleft img {
+    width: 399px;
+    height: 262px;
+    float: left;
+}
+
+.topleft {
+    width: 100%;
+    float: left;
+    position: relative;
+}
+
+.wptopleft {
+    width: 400px;
+    float: left;
+}
+
+.contentleft {
+    width: 690px;
+    float: left;
+}
+
+.content {
+    float: left;
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+.topbanner {
+    margin-top: 15px;
+    float: left;
+    width: 100%;
+}
+
+.menunews ul li a {
+    font-size: 16px;
+    font-family: UTM Bebas;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: normal;
+    display: block;
+    padding: 0 15px;
+}
+
+.menunews ul li {
+    float: left;
+    line-height: 40px;
+}
+
+.menunews ul {
+    overflow: hidden;
+    padding-left: 25px;
+}
+
+.menunews {
+    background: #504f4f;
+    height: 40px;
+    float: left;
+    width: 100%;
+}
+
+.search .btsearch {
+    position: absolute;
+    right: 1px;
+    top: 1px;
+    width: 28px;
+    height: 28px;
+}
+
+.header .search {
+    background-position: -221px 0;
+    width: 163px;
+    height: 30px;
+    margin-top: 14px;
+    position: relative;
+    float: right;
+    margin-right: 15px;
+}
+
+.menu ul li.normal {
+    float: left;
+    padding: 0 16px;
+    line-height: 52px;
+}
+
+.menu ul li.active, .menu ul li.normal:hover {
+    background: #ef7474;
+}
+
+.menu ul li a {
+    font-size: 23px;
+    font-family: UTM Bebas;
+    text-transform: uppercase;
+    font-weight: normal;
+    color: #fff;
+}
+
+.menu {
+    height: 57px;
+    float: left;
+    background: #ec5f5f;
+    width: 100%;
+    margin-top: 3px;
+}
+
+.header .logo a {
+	background-position: 0 -64px;
+    width: 225px;
+    height: 78px;
+    float: left;
+}
+
+.header .logo {
+    float: left;
+    margin: -22px 10px 0 -20px;
+}
+
+.sharetop a.youtube {
+    background-position: -280px -42px;
+    width: 15px;
+    height: 15px;
+}
+
+.sharetop a.facebook {
+    background-position: -221px -42px;
+    width: 10px;
+    height: 15px;
+}
+
+.sharetop a {
+    float: left;
+    margin-left: 20px;
+}
+
+.sharetop {
+    float: right;
+    margin-top: 20px;
+}
+
+.header {
+    width: 100%;
+}
+
+.wp1000 {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+b, strong {
+    font-weight: bold;
+}
+
+script {
+    display: none;
+}
+
+
+img {
+    color: transparent;
+    font-size: 0;
+    vertical-align: middle;
+    //-ms-interpolation-mode: bicubic;
+}
+
+a, img, input {
+    outline: none;
+}
+
+li {
+    display: list-item;
+}
+
+div {
+    display: block;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, dialog, div, dl, dt, em, embed, fieldset, figcaption, figure, font, footer, form, h1, h2, h2, h4, h5, h6, header, hgroup, hr, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, meter, nav, object, ol, output, p, pre, progress, q, rp, rt, ruby, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video, xmp {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    outline: none;
+}
